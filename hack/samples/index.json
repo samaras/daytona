@@ -408,5 +408,10 @@
     "name": "Sample Next.js with Gemini Chat",
     "description": "A simple Next.js app that provides a basic chat interface powered by Gemini for easily making AI-powered chat applications.",
     "gitUrl": "https://github.com/daytonaio/sample-nextjs-gemini-chat"
-  }
+  },
+  {
+    "name": "Sample Django Wellness Buddy",
+    "description": "A Django app that uses Gemini to calculate a users Wellness Score. It uses Twilio to send an SMS to the phone's user.",
+    "gitUrl": "https://github.com/daytonaio/sample-django-wellness-buddy"
+  },
 ]
